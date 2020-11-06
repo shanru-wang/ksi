@@ -17,3 +17,5 @@ The fourth slot is the owner of the code, and please note that it must be contai
 We will put a chart in the repo containing all of the indexed KSI ident.codes. 
 
 Also note that upon registration, you agree that KSI counts as a quotation and can be used to refer to your work. Also, we insist to have one ident.code per project.
+
+For registration pls contact simmonswang.personal.sh@aliyun.com
