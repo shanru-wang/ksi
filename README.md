@@ -1,13 +1,13 @@
-# ksi
-An indexed identification for open-source quotations and authourisations
+# KSI
+An indexed identification for **open-source quotations** and **authourisations**
 
-KSI is short for KamaSourceIdentifier. KSI belongs to Kamacite China Organisation and does not operate under any license.
+KSI is short for `Kama Source Identifier`. KSI belongs to Kamacite China Organisation and does not operate under any license.
 
 Any misuse such as copy, unnoted quotation, etc, could cause serious jurisdiction troubles.
 
-We are an indexed open-source identification tool that issues a unique ident.code to those who wish for honest and trackable usage and quotation of their work containing and does not only contain: Website (source code, UI, css), Programming (Front, Back), Literature (Any yet unpublicized work), Artwork (Picture, painting, etc).
+We are an indexed open-source identification tool that issues a unique ident.code to those who wish for honest and trackable usage and quotation of their work containing and does not only contain: `Website` (source code, UI, css), `Programming` (Front, Back), `Literature` (Any yet unpublicized work), `Artwork` (Picture, painting, etc).
 
-Our ident.code's format, example given is: KSI CN W0001 Qizhen Young RFQ
+Our ident.code's format, example given is: `KSI CN W0001 Qizhen Young RFQ`
 
 The second slot is the country/region registered, China as examplified.
 
@@ -21,4 +21,4 @@ We will put a chart in the repo containing all of the indexed KSI ident.codes.
 
 Also note that upon registration, you agree that KSI counts as a quotation and can be used to refer to your work. Also, we insist to have one ident.code per project.
 
-For registration pls contact simmonswang.personal.sh@aliyun.com
+For registration pls contact (simmonswang.personal.sh@aliyun.com)[mailto:simmonswang.personal.sh@aliyun.com]
