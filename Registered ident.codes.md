@@ -1,26 +1,26 @@
-##WEB
+## WEB
 
-#KSI CN/US W0001 Qizhen Yang RFQ
+# KSI CN/US W0001 Qizhen Yang RFQ
 
-All the markup, script and UI in https://qizhen-yang.github.io 
+All the markup, script and UI in <https://qizhen-yang.github.io> 
 
-##PROGRAMMING
+## PROGRAMMING
 
 #KSI CN/US P0001 Qizhen Yang, Shanru Wang RFQ NC
 
-All the files in https://github.com/Qizhen-Yang/kama-os
+All the files in <https://github.com/Qizhen-Yang/kama-os>
 
 #KSI CN P0002 Shanru Wang, Qizhen Yang RFQ NC
 
-All the files in github.com/swang-0711/site-building-advisory
+All the files in <https://github.com/swang-0711/site-building-advisory>
  
-##LITERATURE
+## LITERATURE
 
 #KSI CN/US L0001 Shanru Wang RFQ
 
-All pages of the main text of the updating miniature novel in repo https://github.com/swang-0711/mrobrien
+All pages of the main text of the updating miniature novel in repo <https://github.com/swang-0711/mrobrien>
 
-##ARTWORK
+## ARTWORK
 
 #KSI CN A0001 Shanru Wang RFQ BILIBILI
 
