@@ -1,6 +1,4 @@
-# ksi 
-
-[toc]
+# **ksi 
 
 # in general
 
