@@ -27,3 +27,11 @@ All pages of the main text of the updating miniature novel in repo <https://gith
 All bilibili videos under 公厕的老王 
 
 Available for in-bilibili reposting and editing. NOT FOR ANY OTHER PLATFORMS AND ONLY UNDER FULL QUOTATION OF IDENT.CODE
+
+## REVISION MATERIAL
+
+#KSI CN RM0001 Shanru Wang RFQ
+All pages of the 'Grammar Collection' of Y7S1
+
+#KSI CN RM0002 Shanru Wang et al. RFQ WFLA SH
+All pages of the 'A student's guide to the midterm exam', Y7S2
